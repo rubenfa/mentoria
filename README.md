@@ -31,7 +31,7 @@ Aquí deberías explicar qué cosas crees que debería aprender un buen programa
 
 Recuerda que para todo esto conviene que **utilices la sintaxis Markdown**. Así el texto quedará mucho más legible. Puedes encontrar una guía [en esta dirección](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Una vez tengas el texto, puedes enviar un Pull Request para incluirlo.
+Una vez tengas el texto, puedes enviar un Pull Request para incluirlo. Si crees que puedes aportar algo, no lo dudes y colabora.
 
 
 # MENTORES
