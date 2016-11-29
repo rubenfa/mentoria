@@ -4,7 +4,7 @@ Hace unos cuantos años, me decidí a estudiar desarrollo de software en la Univ
 
 Con la perspectiva de los años, me he dado cuenta de lo **útil que hubiese sido tener a alguien experimentado, que me fuera guiando en el proceso de ser mejor desarrollador**. El software cambia muy rápido, y si es difícil estar al día cuando tienes tablas, es todavía mucho más difícil cuando no las tienes. 
 
-Así que se me ha ocurrido hacer una guía colaborativa, para que desarrolladores que ya llevan unos cuantos años pegándose en esto de hacer aplicaciones, puedan escribir sobre qué creen ellos que todo buen programador debería saber. A ver qué sale.
+Así que se me ha ocurrido hacer una guía colaborativa, para que desarrolladores que ya llevan unos cuantos años pegándose en esto de hacer aplicaciones, puedan escribir sobre qué creen ellos que todo buen programador debería saber. **Así que si crees que puedes ayudar, y facilitar el camino a programadores que se están iniciando en el mundillo, anímate y colabora**. No te llevará mucho tiempo.
 
 
 # Qué escribir
