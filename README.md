@@ -6,6 +6,7 @@ Con la perspectiva de los años, me he dado cuenta de lo **útil que hubiese sid
 
 Así que se me ha ocurrido hacer una guía colaborativa, para que desarrolladores que ya llevan unos cuantos años pegándose en esto de hacer aplicaciones, puedan escribir sobre qué creen ellos que todo buen programador debería saber. **Así que si crees que puedes ayudar, y facilitar el camino a programadores que se están iniciando en el mundillo, anímate y colabora**. No te llevará mucho tiempo.
 
+Recuerda, que si puedes añadir enlaces a vídeos, blogs o bibliografía, será todavía más fácil para la gente que lo lea.
 
 # Qué escribir
 
