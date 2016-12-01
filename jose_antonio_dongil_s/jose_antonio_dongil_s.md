@@ -16,7 +16,7 @@ En [el abismo de null](https://elabismodenull.wordpress.com/) puedes conocerme m
 Te sorprenderá, pero hay tres características que veo indispensables y que no enseñan en los estudios: 
 
 1. **La comunicación**: Ya sea verbal o escrita. Es muy importante que sepas escuchar y que sepas expresar correctamente lo que estás pensando. En tu vida profesional
-tratarás con muchas personas. Personas técnicas y no técnicas. Es importante saberse expresar en cada contexto. Poder expresar una solución y que tus compañeros y clientes
+tratarás con muchas personas. Personas técnicas y no técnicas. Es importante saberse expresarse en cada contexto. Poder expresar una solución y que tus compañeros y clientes
 la entiendas es un buen primer paso para crear software de calidad. No generes trincheras entre pérfiles, no hagas enemigos donde no los hay: la gente de negocio, los de UX, 
 los Devops también te pueden enseñar mucho.
 
