@@ -39,4 +39,5 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 # MENTORES
 
 ##[Javier Ros](/javier_ros_m/javier_ros_m.md)
+##[José Antonio Dongil](/jose_antonio_dongil_s/jose_antonio_dongil_s.md)
 ## [Rubén Fernández](/ruben_fernandez_a/ruben_fernandez_a.md)
