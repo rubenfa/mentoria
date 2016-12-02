@@ -6,7 +6,7 @@ Todo lo que escribo aquí es mi opinión y sólo mi opinión, en muchos aspectos
 
 En este tipo de entradas (y asumiendo que no hay peor consejo que el que no te piden), parece difícil expresarse sin caer en la demagogía.
 
-Yo personalmente me considero a mí mismo un newbie, y mucho de lo que creo hay que hacer, o directamente no lo hago o lo repito como 
+Yo personalmente me considero a mí mismo un *newbie*, y mucho de lo que creo hay que hacer, o directamente no lo hago o lo repito como 
 un mantra para obligarme a mí mismo a no desviarme del camino.
 
 Dicho esto, y para favorecer la diversidad, voy a escribir mi bio como un relato corto. 
@@ -53,7 +53,8 @@ pero pasado un tiempo lo recordarás como algo bueno porque esa sensación de fr
 * Asume que, por mucho que tú lo creas, no sabes tanto como piensas. Es un tópico peor no por ello deja de ser cierto, [cuanto más sabes más ignoras](https://es.answers.yahoo.com/question/index?qid=20110304093151AAf83be).
 Si por el contrario es cierto y sabes un montón de algo (no es mi caso), esfuérzate en compartirlo, [enseñar es aprender dos veces](https://es.wikiquote.org/wiki/Joseph_Joubert). Si además lo explicas en un tono humilde y conciliador, 
 tu reputación te precederá y allí donde vayas te haré una reverencia al verte.
-* No seas indolente, en mi opinión es lo peor que te puede pasar.
+* Invierte en formación, no seas rata (a no ser que no puedas permitírtelo, ahí me callo). Hay un montón de recursos gratis para aprender, pero también los hay de pago ([Pluralsight](https://www.pluralsight.com/), [CampusMVP](http://www.campusmvp.es/), [desarrolloweb.com](http://desarrolloweb.com/), [lemoncode](http://lemoncode.net/), etc.). Si hablamos de libros, pues [Manning](https://www.manning.com/), [O'Really](http://www.oreilly.com/), el ya mencionado CampusMVP, incluso gratuitos como [Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks). La verdad es que la lista de recursos es interminable y daría para otro fichero .md.
+* No seas indolente, en mi opinión es lo peor que te puede pasar. Esto es super-personal, pero no puedo con la gente que va a pasar el rato a la oficina.
 
 ### 3. PERFIL
 
