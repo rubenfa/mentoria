@@ -15,7 +15,7 @@ Dicho esto, y para favorecer la diversidad, voy a escribir mi bio como un relato
 
 Lo cierto es que empecé tarde y empecé por descarte.
 
-Nunca he sido buen estudiante, de hecho tenía una preocupante tendencia a malgastar mi tiempo y esfuerzo en tareas sin recompensa, 
+Nunca fui un buen estudiante, de hecho tenía una preocupante tendencia a malgastar mi tiempo y esfuerzo en tareas sin recompensa, 
 pero un buen día y mientras discurría con aparente monotonía mi jornada laboral, conocí a una persona
 en el supermercado que, a la postre, me cambió la vida. 
 
@@ -37,11 +37,13 @@ Más recientemente, me convertí en [panicoenlaxbox](https://twitter.com/panicoe
 
 ### 2. INTRO
 
-Si he escrito una bio tan personal es porque me gustaría recalcar lo siguiente:
+Si he escrito una bio tan personal (y exagerada quizás) es porque me gustaría recalcar lo siguiente:
 * Que un programador se hace, no nace, en esto estoy completamente de acuerdo con [Javier Ros](https://github.com/rubenfa/mentoria/blob/master/javier_ros_m/javier_ros_m.md), que además lo dijo antes que yo.
 En mi opinión, para dedicarte al desarrollo de software tiene que tener vocación, si no tarde o temprano desfallecerás y te convertirás en un recurso.
-* Puedes ser un excelente programador sin tener una formación reglada. Lógicamente, si la tienes será mejor, sumará en todos los aspectos, eso es de perogrullo, 
-pero personalmente conozco casos en los que aún no salgo de mi asombro cuando me cuentan que acabaron E.G.B y listo. Se resume bien en la frase *show me your code*.
+* Puedes ser un excelente programador sin tener una formación reglada (no lo digo por mí, yo ni tengo grado ni soy excelente). 
+Lógicamente, si tienes una ingeniería, grado o ciclo de formación, será mejor, eso es de perogrullo,
+pero personalmente conozco casos en los que aún no salgo de mi asombro cuando me cuentan que acabaron E.G.B y listo. 
+Se resume bien en la frase *show me your code*.
 * Si puedes tener un mentor, no lo dudes, tenlo. Es más, ten más de uno.
 Quizás sea un acuerdo tácito y no os llaméis el uno al otro maestro y discípulo, pero no te cortes, búscalo directa o indirectamente
 porque quien quiere aprender, terminará siempre encontrando alguien que quiera enseñar.
@@ -66,7 +68,10 @@ Y hablando de Javascript tengo que decir que me gusta Javascript, ¡arrea!, cier
 
 ### 4. CAMINO DE APRENDIZAJE
 
-Como se me hace muy complicado intentar separar en básico, medio y avanzado los conocimientos que yo considero necesarios, directamente no voy ni a intentarlo. Ya lo decía Homer Simpson *Lo intentaste con todas tus fuerzas y fracasaste. La lección es: nunca lo intentes* 
+Como se me hace muy complicado intentar separar en básico, medio y avanzado los conocimientos que yo considero necesarios, 
+directamente no voy ni a intentarlo. Ya lo decía Homer Simpson *Lo intentaste con todas tus fuerzas y fracasaste. La lección es: nunca lo intentes*
+
+Ya en serio, te daré una visión sesgada por el trabajo que actualmente desempeño, aunque también parece un perfil muy habitual.
 
 * **Bases de datos relacionales** No hay aplicación que no quiera persistir datos de una forma u (bueno, quizás alguna haya que no, 
 pero en un entorno empresarial casi seguro que lo harán). Normalmente será una base de datos relacional y aquí, 
