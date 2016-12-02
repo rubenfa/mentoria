@@ -14,6 +14,8 @@ Aunque siempre he hecho de todo, si tuviera que elegir un perfil, diría que soy
 
 ### 4. CAMINO DE APRENDIZAJE
 
+Voy a dividir los conocimientos en tres pasos. Aunque los llamo básicos, medios y avanzados, no quiere decir que seas peor solo porque sepas los básicos. Simplemente digo que para mí, es mejor dominar los primeros puntos antes que los demás. Hay muchas cosas que aprender, y hay que centrarse en algo, y mejor si es paso a paso.
+
 1. **Conocimientos básicos**:
   * **Bases de datos relacionales y SQL**. Aunque no esté de moda, creo que todo programador debería tener conocimientos de SQL. Si bien no hace falta ser un experto, al menos debería ser capaz de hacer consultas sencillas y algunas un poco más complicadas (*INNER JOIN*, subconsultas, actualización de datos, inserción etc.). Tampoco estaría de más saber algo más sobre bases de datos (hacer copias de seguridad, índices, claves primarias etc.)
   * **Programación orientada a objetos**. Creo que hay que empezar por un paradigma, y este, con sus ventajas e inconvenientes, me parece el más asequible. Aquí estoy pensando más en algo teórico sin centrarme en ningún lenguaje, aunque se aprende más fácil si usas uno. Yo recomendaría **C#** que es el que más conozco y me parece un buen lenguaje para esto.
