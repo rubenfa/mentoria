@@ -54,6 +54,10 @@ Independientemente de cómo y en qué orden los adquieras, los conocimientos que
 
 * **Sistemas de Control de Versiones**. El que sea, aunque hoy en día el más popular es Git y, especialmente, la forma de usarlo con GitHub. Aparte de ser imprescindible para cualquier cosa que hagas profesionalmente, te abrirá las puertas a colaborar en proyectos Open Source donde podrás aprender un montón.
 
+* **Arquitectura y diseño**. Puede que al principio te parezca que te queda un poco lejos y te venga todo impuesto desde fuera, pero intenta siempre comprender la arquitectura que se está aplicando en un proyecto y los motivos que hay detrás de un diseño concreto. Además, existen catálogos de patrones de diseño y arquitectónicos que resulta útil conocer para hablar un idioma común con otros desarrolladores. Eso sí, ten cuidado porque, sobre todo cuando empiezas a tener cierta soltura con estos conceptos, es fácil caer en la tentación de crear auténticos monstruos ultra-complicados para resolver problemas simples.
+
+* **Metodologías de desarrollo**. Es otra cosa en la que, probablemente, no tengas mucha mano inicialmente y te toque asumir lo que ya se esté usando en el equipo de desarrollo en el que caigas. Aun así, plantéate siempre por qué se usan unas metodologías u otras e intenta conocer los pros y los contras de las más usas. Al igual que con la arquitectura, es fácil caer en el exceso y acabar siendo demasiado fanático de una metodología concreta. Ojo con eso.
+
 Además de estos conocimientos más técnicos, hay un par más que también creo que son muy importantes:
 
 * **Inglés**. Qué menos que leer documentación en inglés y poder escribir textos en inglés para comunicarte por internet. Lo razonable sería que pudieras también escuchar charlas en inglés y poder ser capaz de mantener una conversación técnica. Lo deseable sería que te pudieras manejar con total soltura. De verdad, si puedes invertir tiempo en esto, merece la pena y además es un conocimiento totalmente reutilizable en otras áreas de la vida.
