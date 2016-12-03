@@ -42,4 +42,4 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 ## [Javier Ros](/javier_ros_m/javier_ros_m.md)
 ## [José Antonio Dongil](/jose_antonio_dongil_s/jose_antonio_dongil_s.md)
 ## [Rubén Fernández](/ruben_fernandez_a/ruben_fernandez_a.md)
-## [Sergio León](/sergio_leon_g/sergio_leon_g_a.md)
+## [Sergio León](/sergio_leon_g/sergio_leon_g.md)
