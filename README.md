@@ -39,7 +39,9 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 
 # MENTORES
 
+## [Ángel Carlos López](/angelcarlos_lopez_q/angelcarlos_lopez_q.md)
 ## [Javier Ros](/javier_ros_m/javier_ros_m.md)
+## [José Antonio Bautista](/jose_antonio_bautista/jose_antonio_bautista.md)
 ## [José Antonio Dongil](/jose_antonio_dongil_s/jose_antonio_dongil_s.md)
 ## [Juan María Hernández](/juan_maria_hernandez_a/juan_maria_hernandez_a.md)
 ## [Modesto San Juan](/modesto_san_juan_a/modesto_san_juan_a.md)
