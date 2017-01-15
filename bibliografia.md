@@ -28,7 +28,7 @@ En este documento podrás encontrar enlaces a recursos de programación. Estos r
   - [Effective Java](https://www.amazon.es/Effective-Java-2nd-Programming-Language/dp/0321356683/ref=sr_1_1)
 
 ## Metodologías
-  - [Scrum from trenches](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272/ref=sr_1_1?s=foreign-books&ie=UTF8&qid=1482523815&sr=1-1&keywords=scrum+from+trenches)
+  - [Scrum and XP from the trenches](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272/ref=sr_1_1?s=foreign-books&ie=UTF8&qid=1482523815&sr=1-1&keywords=scrum+from+trenches)
   - [Extreme Programming Explained](https://www.amazon.es/Extreme-Programming-Explained-Embrace-Embracing/dp/0321278658/ref=sr_1_1)
 
 ## Bases de datos
@@ -38,7 +38,7 @@ En este documento podrás encontrar enlaces a recursos de programación. Estos r
   - [Head First Design Patterns](https://www.amazon.es/Head-First-Design-Patterns-Freeman/dp/0596007124)
 
 ## Ingeniería de software y gestión de proyectos
-  - [The Mythicla Man Month] (https://www.amazon.es/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_fkmr0_1?s=foreign-books&ie=UTF8&qid=1482523374&sr=1-1-fkmr0&keywords=mithycal+man+month)
+  - [The Mythical Man Month] (https://www.amazon.es/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_fkmr0_1?s=foreign-books&ie=UTF8&qid=1482523374&sr=1-1-fkmr0&keywords=mithycal+man+month)
 
 ## Profesionalidad
   - [The Clean Coder](https://www.amazon.es/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1)
