@@ -2,11 +2,11 @@
 
 Hace unos cuantos años, me decidí a estudiar desarrollo de software en la Universidad (la antigua I.T de Gestión). Cuando uno no tiene mucha idea de como funciona el mundillo, parece una de las opciones más razonables. Piensas que allí te enseñarán todo lo que necesitas para convertirte en un profesional de provecho, y que sabrás enfrentarte a lo que se te ponga por delante una vez termines de estudiar. Pero aunque no se puede negar que se aprenden un montón de cosas, cuando entras en el mundo laboral, te das cuenta de que no sabes nada.
 
-Con la perspectiva de los años, me he dado cuenta de lo **útil que hubiese sido tener a alguien experimentado, que me fuera guiando en el proceso de ser mejor desarrollador**. El software cambia muy rápido, y si es difícil estar al día cuando tienes tablas, es todavía mucho más difícil cuando no las tienes. 
+Con la perspectiva de los años, me he dado cuenta de lo **útil que hubiese sido tener a alguien experimentado, que me fuera guiando en el proceso de ser mejor desarrollador**. El software cambia muy rápido, y si es difícil estar al día cuando tienes tablas, es todavía mucho más difícil cuando no las tienes.
 
 Así que se me ha ocurrido hacer una guía colaborativa, para que desarrolladores que ya llevan unos cuantos años pegándose en esto de hacer aplicaciones, puedan escribir sobre qué creen ellos que todo buen programador debería saber. **Así que si crees que puedes ayudar, y facilitar el camino a programadores que se están iniciando en el mundillo, anímate y colabora**. No te llevará mucho tiempo.
 
-Recuerda que también puedes añadir recursos a la sección de [bibliografía](https://github.com/rubenfa/mentoria/blob/master/bibliografia.md). 
+Recuerda que también puedes añadir recursos a la sección de [bibliografía](https://github.com/rubenfa/mentoria/blob/master/bibliografia.md).
 
 
 # Qué escribir
@@ -47,6 +47,6 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 ## [Juan María Hernández](/juan_maria_hernandez_a/juan_maria_hernandez_a.md)
 ## [Juan Quijano](/juan_quijano/juan_quijano.md)
 ## [Modesto San Juan](/modesto_san_juan_a/modesto_san_juan_a.md)
+## [Raúl Ávila](/raul_avila/raul_avila.md)
 ## [Rubén Fernández](/ruben_fernandez_a/ruben_fernandez_a.md)
 ## [Sergio León](/sergio_leon_g/sergio_leon_g.md)
-
