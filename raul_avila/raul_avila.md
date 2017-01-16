@@ -19,7 +19,7 @@ Si quieres saber más sobre mí aquí tienes algunos enlaces:
 
 ### 2. INTRO
 
-Tengo muy claro cual es la principal cualidad que debe tener un buen programador, y no es en absoluto técnica: humildad. Es necesario ser humilde para reconocer errores, para aceptar críticas de los demás sin tomárselas como afrentas personales, para rehacer (o incluso eliminar) código que nos ha costado horas desarrollar, para reconocer que hemos metido la mata en una entrega en lugar de culpar a los de operaciones, etc.
+Tengo muy claro cual es la principal cualidad que debe tener un buen programador, y no es en absoluto técnica: humildad. Es necesario ser humilde para reconocer errores, para aceptar críticas de los demás sin tomárselas como afrentas personales, para rehacer (o incluso eliminar) código que nos ha costado horas desarrollar, para reconocer que hemos metido la pata en una entrega en lugar de culpar a los de operaciones, etc.
 
 Realmente el nivel técnico que pueda tener una persona no me importa en absoluto mientras sea capaz de reconocer sus carencias y trabajar en ellas. Esto me lleva directamente a otro rasgo importante, afán de superación. Me gusta mucho decir que, si no te sientes avergonzado del código que escribiste hace un año, seguramente estés haciendo algo mal. Hay que mirar fuera constantemente e intentar ser un poco mejores cada día. Si cada día aprendemos aunque sea una cosa nueva, al cabo del año serán cientos de cosas, que se irán acumulando en nuestro bagaje para poder ser el mejor profesional que podamos.
 
