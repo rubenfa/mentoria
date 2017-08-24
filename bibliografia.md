@@ -10,7 +10,7 @@ En este documento podrás encontrar enlaces a recursos de programación. Estos r
 
   - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - [The pragmatic programmer: from journeyman to master ](https://www.amazon.es/Pragmatic-programmer-journeyman-Hunt-Andrew/dp/020161622X)
-  - [Code complete] (https://www.amazon.es/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=sr_1_1?s=foreign-books&ie=UTF8&qid=1482523474&sr=1-1&keywords=code+complete)
+  - [Code complete](https://www.amazon.es/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=sr_1_1?s=foreign-books&ie=UTF8&qid=1482523474&sr=1-1&keywords=code+complete)
   - [Building Maintainable Software](https://www.amazon.es/Building-Maintainable-Software-Guidelines-Future-Proof/dp/1491954523/ref=sr_1_1)
 
 ## Patrones de diseño
