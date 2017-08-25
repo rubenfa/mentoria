@@ -42,12 +42,15 @@ He ido pasando por varios lenguajes y entornos, de C++ a Visual Basic, Delphi, J
 
    Hay diferentes tipos de código y pueden tener diferente valor y diferente coste. Muchos factores lo determinan, pero los principales son cuánto tiempo/cuántas veces lo vayas a usar y cómo sea de extenso.
 
-2. **No es el código.** No te pagan por escribir código. El código [casi][1] nunca es tu objetivo.  
+2. **No es el código.** No te pagan por escribir código. El código _casi_[1] nunca es tu objetivo.  
    No sólo eso, el código ni siquiera es la parte importante de lo que haces. El código casi siempre es un coste, un sacrificio que hay que hacer. Lo importante, realmente, es solucionar problemas. Y para eso, más importante que escribir código son:
 
    - _Pensar_. Pensar es lo que te va a permitir solucionar los problemas. Escribir código "sólo" es expresar esos pensamientos.
    - _Hablar_. Hablar, con las personas que tienen el problema, con cualquier otra persona implicada en el desarrollo, con quienes van a usar tu solución, es lo que te va a permitir saber qué problema tienes que solucionar y si tu propuesta realmente lo soluciona.
    - _Saber_. Saber, conocer las posibilidades y opciones disponibles, las ventajas e inconvenientes, los costes y valores, es lo que te va a permitir tomar mejores decisiones. Está claro que esto lleva tiempo; más sobre el tema del tiempo más abajo.
+
+
+   [1]: La excepción es el arte. Si lo que estás haciendo es _arte_ entonces _a lo mejor_ el código puede ser un objetivo en sí mismo.
 
 3. **Cada cosa requiere un esfuerzo y tiempo diferente.** En concreto, cuando se trata de tu aprendizaje, no intentes apresurar todo. Hay cosas que _irremediablemente_ necesitan tiempo. La experiencia no se adquiere de forma teórica sino... bueno, viviéndola. Por eso ten paciencia. Sé consciente de que quieres mejorar, pero sé consciente también de dónde estás ahora y qué estás haciendo ahora. Recuerda lo de la actitud; no es sólo ser capaz de orientarte hacia ese futuro, sino también ser consciente de dónde estás en este momento.
 
@@ -107,7 +110,3 @@ No hagas caso a mis principios personales; define los tuyos. Pero en cualquier c
 Insisto, no hagas caso a nada de lo que he dicho. Como mucho piensa críticamente sobre ello y escoje, adapta, lo que te parezca razonable. Pruébalo, observa si te sirve y saca tus propias conclusiones.
 
 
-----
-
-
-[1]: La excepción es el arte. Si lo que estás haciendo es _arte_ entonces _a lo mejor_ el código puede ser un objetivo en sí mismo.
