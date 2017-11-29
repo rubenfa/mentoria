@@ -31,7 +31,7 @@ Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije 
 
 ### 3. PERFIL
 
-
+He hecho muchas cosas en software, de hecho comencé programando en assembler, no creo tener un perfil definido, además de programar me gusta el diseño, he hecho front end y backend casi por igual pero no soy especialista en nada, soy más bien un programdor de uso general :)
 
 ### 4. CAMINO DE APRENDIZAJE
 
