@@ -76,4 +76,4 @@ De todas las cosas que se pueden saber yo jamás recomendaría un framework o li
 
  - **Practicar**: Si uno quiere destacar es necesario mantener ciertas habilidades siempre frescas, por desgracia no siempre nos toca un proyecto en el que podemos hacer TDD, automatizar, hacer queries SQL, aplicar patrones, etc. Entonces no nos queda más que practicar, cómo? haciendo [katas de código](http://codekata.com/), es muy estimulante y nos mantiene con la mente abierta.
 
- - **Referentes**: Seguir en twitter, leer blogs, participar en listas de correos, estar en contacto con referentes de las distingas áreas o tecnologías nos permite aprender de primera mano hacía dónde va la cosa.
+ - **Referentes**: Seguir en twitter, leer blogs, participar en listas de correos, estar en contacto con referentes de las distingas áreas o tecnologías nos permite aprender de primera mano hacía dónde va la cosa y estar en contacto con gente experimentada o con visiones diferentes.
