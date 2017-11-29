@@ -67,7 +67,8 @@ Aceptar los cambios es tolerar un poco de frustración, que las cosas no serán 
  - Patrones: Conocer y comprender los patrones más utilizados en el lenguaje que uno usa es muy útil y ayuda a comprender el código de otros y plantear soluciones.
 
  - Diferentes formas de testing: Es necesario al menos conocer de qué se trata TDD, cómo se puede hacer una prueba de UI, una de integración
-Control de versiones: Es casi una locura no utilizar control de versiones, conocer al menos un par de ellos y saber hacer las cosas escenciales es determinante.
+
+ - Control de versiones: Es casi una locura no utilizar control de versiones, conocer al menos un par de ellos y saber hacer las cosas escenciales es determinante.
 
  - Integración continúa: Al menos comprender qué es y poder comprender qué hace un entorno ya configurado.
 
