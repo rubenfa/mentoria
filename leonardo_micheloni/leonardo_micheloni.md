@@ -31,9 +31,12 @@ Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije 
 
 ### 3. PERFIL
 
-He hecho muchas cosas en software, de hecho comencé programando en assembler, no creo tener un perfil definido, además de programar me gusta el diseño, he hecho front end y backend casi por igual pero no soy especialista en nada, soy más bien un programdor de uso general :)
+He hecho muchas cosas en software, de hecho comencé programando en assembler, programé controladores de tránsito también así que no creo tener un perfil definido, además de programar me gusta el diseño, he hecho front end y backend casi por igual pero no soy especialista en nada, soy más bien un programdor de uso general orientado al desarrollo web.
 
 ### 4. CAMINO DE APRENDIZAJE
+
+Yo soy de los que creen que el aprendizaje formal (ir a la universidad por ejemplo) sí aporta valor si bien se puede ser un gran programador sin él.
+De todas las cosas que se pueden saber yo jamás recomendaría un framework o librería para mí lo que va a llevar al conocimiento sustentable es el conocer las bases.
 
  - **Conocimientos de base**: Estoy totalemente convencido que es mejor comprender que saber de memoria, en el desarrollo hay muchas tecnologías, pero como dije antes, los principios en los que se apoyan son los mismo.
 
@@ -48,6 +51,8 @@ He hecho muchas cosas en software, de hecho comencé programando en assembler, n
  - **HTTP**: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivels es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/).
 
  - **Cómo funciona un servidor web**: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) comprender cómo configurar un servidor es muy importante.
+
+ - **El DOM del navegador**: Si uno es desarrollador web no puede pasarse la vida desconociendo qué pasa por detrás cuando hacemos un binding en Vue.js, conocer el DOM es importante.
 
  - **Prácticas de código límpio**: Tener presente y repasar los [principios de código limpio](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) es escencial.
 
