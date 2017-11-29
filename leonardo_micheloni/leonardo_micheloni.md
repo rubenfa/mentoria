@@ -60,9 +60,9 @@ Aceptar los cambios es tolerar un poco de frustración, que las cosas no serán 
  - Modelos NoSql: Comprender diferentes modelos del bases no relacionales, ventajas y desventajas.
  - HTTP: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivels es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/).
 
- - Cómo funciona un servidor web: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) cómo configurar un servidor es muy importante.
+ - Cómo funciona un servidor web: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) comprender cómo configurar un servidor es muy importante.
 
- - Prácticas de código límpio: Tener presente y repasar los principios de código limpio es escencial.
+ - Prácticas de código límpio: Tener presente y repasar los [principios de código limpio](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) es escencial.
 
  - Patrones: Conocer y comprender los patrones más utilizados en el lenguaje que uno usa es muy útil y ayuda a comprender el código de otros y plantear soluciones.
 
