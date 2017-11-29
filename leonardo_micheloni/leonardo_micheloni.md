@@ -34,11 +34,11 @@ Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije 
 
 ### 3. PERFIL
 
-Si tuviera que responder rápidamente cuáles serían las cualidades para ser un buen programador, se me vienen éstas a la mente rápidamente:
+Si tuviera que responder rápidamente cuáles serían las cualidades para ser un buen programador, se me vienen éstas a la mente:
 
- - Actitud: Creo que todos las principales características que yo creo necesarias para ser un buen programador pueden resumirse en *actitud*. Actituda para aprender, actitud para enfrentar nuevos retos, actitud para aceptar críticas, actitud para dar lo mejor, actitud para aceptar que no siempre se puede hacer lo mejor. Ser positivo y comunicativo.
+ - Actitud: Todas las principales características que yo creo necesarias para ser un buen programador pueden resumirse en *actitud*. Actitud para aprender, actitud para enfrentar nuevos retos, actitud para aceptar críticas, actitud para dar lo mejor, actitud para aceptar que no siempre se puede hacer lo mejor. Ser positivo y comunicativo, tener actitud.
 
- - No ser perezoso: Hay mucho que aprender y muchas veces una dos soluciones pueden funcionar igual pero una estar "pegada con cinta" y la otra bien hecha y entre ellas haber una diferencia de esfuerzo considerable, si bien no siempre es efectivo a nivel costo invertir todo el tiempo necesario para hacer las cosas lo mejor posible (lo perfecto es enemigo de lo suficiente) sobre todo en etapas tempranas en las que queremos comprender el negocio
+ - No ser perezoso: Hay mucho que aprender y muchas veces dos soluciones pueden funcionar igual pero una puede estar "pegada con cinta" y la otra bien hecha y entre ellas haber una diferencia de esfuerzo considerable, si bien no siempre es efectivo a nivel costo invertir todo el tiempo necesario para hacer las cosas lo mejor posible (lo perfecto es enemigo de lo suficiente) sobre todo en etapas tempranas en las que queremos comprender el negocio
 
  - Ser metódico: Hay pasos a seguir y herramientas para cada cosa (cuando digo herramientas también digo marcos de trabajo) al final seguir los pasos adecuados lleva al mejor resultado.
 
