@@ -38,17 +38,17 @@ He hecho muchas cosas en software, de hecho comencé programando en assembler, p
 Yo soy de los que creen que el aprendizaje formal (ir a la universidad por ejemplo) sí aporta valor si bien se puede ser un gran programador sin él.
 De todas las cosas que se pueden saber yo jamás recomendaría un framework o librería para mí lo que va a llevar al conocimiento sustentable es el conocer las bases.
 
- - **Conocimientos de base**: Estoy totalemente convencido que es mejor comprender que saber de memoria, en el desarrollo hay muchas tecnologías, pero como dije antes, los principios en los que se apoyan son los mismo.
+ - **Conocimientos de base**: Estoy totalemente convencido que es mejor comprender que recordar, en el desarrollo hay intervienen tecnologías y muchas nuevas que van a apareciendo, pero como dije antes, los principios en los que se apoyan son los mismo o son variantes de los mismo, conocer las bases nos ayuda a adoptar lo nuevo y nos da herramientas para solucionar problemas.
 
  - **Paradigmas de programación**: Hay muchos y cada uno tiene sus ventajas y desventajas, en mi caso uso mucho C# que es de uso general basado en POO con algunas cosas de funcional. También uso mucho Javascript que es prototipado. Es muy útil conocer cómo se hacen ciertas cosas en otros lenguajes, ayuda e cambiar la perspectiva de los problemas, un buen libro para esto es ["Seven Languages in Seven Weeks"](https://www.amazon.es/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/)
 
  - **El lenguaje que uno utiliza**: No creo que conocer cada una de los detalles del lenguaje sea necesario, pero tener presente la mayoría de las posibilidades, por ejemplo si al declarar una clase los métodos son virtuales o no, conocer cosas como el funcinamiento básico del Garbage collector, y antes de escribir una clase de utilidad por nosotros mismos buscar si nuestro lenguage ya hace algo similiar (que es lo más probable)
 
- - **Modelos relacionales de datos**: Conocer cómo hacer queries SQL, poder analizar un plan de ejecución, saber algo de optimización, es muy importante.
+ - **Modelos relacionales de datos**: Conocer cómo hacer queries SQL, poder analizar un plan de ejecución, saber algo de optimización a mí me ha sido muy útil en optimizaciones de rendimiento.
 
- - **Modelos NoSql**: Comprender diferentes modelos del bases no relacionales (CAP), ventajas y desventajas.
+ - **Modelos NoSql**: Comprender diferentes modelos del bases no relacionales (CAP), ventajas y desventajas para tener opciones a la hora de pensar en una arquitectura.
  
- - **HTTP**: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivels es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/).
+ - **HTTP**: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivel es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/), saber hacer un request a mano, no lo vamos a hacer todos los días pero nos ayuda e comprender por qué las cosas son como son.
 
  - **Cómo funciona un servidor web**: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) comprender cómo configurar un servidor es muy importante.
 
