@@ -22,12 +22,12 @@ Por eso creo que no cualquiera puede programar...sin ciertos conocimientos, es f
 
 Otro problema es que es que aparecen "cosas" nuevas todo el tiempo, si bien la mayor parte del desarrollo se sigue apoyando en las mismas bases de hace 20 años con algunas variaciones, es difícil no dejarse llevar por la moda del momento, hace falta experiencia para no subirse a "la nueva ola" cada dos meses.
 
-Del lado de las habilidades técnicas yo creo en ser metódico y confiar en los métodos que uno aplica, digo esto porque es común ver que hay programadores que no soportan seguir los pasos lógicos del desarrollo, hacer las cosas bien en general es más lento que hacerlas mal (al menos da esa sensación) y al no confiar en los métodos y que estos los van a llevar a un mejor resultado toman el camino fácil (o más simple en su mente) hacer las cosas mal y a las apuradas. Con la experiencia uno va comprendiendo cuán bien merece la pena hacer algo dadas las circunstancias actuales.
+Del lado de las habilidades técnicas yo creo en ser metódico y confiar en los métodos que uno aplica, digo esto porque es común ver que hay programadores que no soportan seguir los pasos lógicos del desarrollo, hacer las cosas bien en general es más lento que hacerlas mal (al menos da esa sensación) y al no confiar en los métodos y que estos los van a llevar a un mejor resultado toman el camino fácil (o más simple en su mente) hacer las cosas mal y a las apuradas. *Con la experiencia uno va comprendiendo cuán bien merece la pena hacer algo dadas las circunstancias actuales*.
 
 No creo que uno tenga que se apasionado para ser un buen programador (no digo ser un crack, sino ser bueno), siempre que escucho esto pienso en Gabriel Batistuta quien ha llegado a decir que para él el fútbol era solo su trabajo, pero llegó a ser goleador de la liga Italiana y el segundo máximo goleador de la selección Argentina (fue el primero hasta que llegó Messi). 
-Por supuesto que si te gusta mucho mejor, vas a superar al que no le gusta, como a Messi.
+Por supuesto que si te gusta mucho mejor, vas a superar al que no le gusta, como a Messi. Pero con se un buen profesional basta para hacer muchos goles.
 
-Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije que [un programador es tan artesano](https://twitter.com/leomicheloni/status/797063073752289280) como los eran los romanos que construyeron el Coliseo...o sea nada; no somos artesando, tal vez obreros calificados.
+Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije que [un programador es tan artesano](https://twitter.com/leomicheloni/status/797063073752289280) como los eran los romanos que construyeron el Coliseo...o sea nada; no somos artesando, tal vez obreros calificados, los artesanos hacen cosas con inspiración, más o menos como ellos quieren, nosotros tenemos que seguir reglas y ajustarnos a tiempos y presupuestos.
 
 ### 3. PERFIL
 
@@ -75,3 +75,5 @@ De todas las cosas que se pueden saber yo jamás recomendaría un framework o li
 - **Leer**: Leer código de otros ayuda a aprender y a hacernos preguntas a nosotros mismos, es un buen ejercicio mirar el código de algún framework o librería que usemos, o simplemente código de un colega para ver otras formar de hacer las cosas.
 
  - **Practicar**: Si uno quiere destacar es necesario mantener ciertas habilidades siempre frescas, por desgracia no siempre nos toca un proyecto en el que podemos hacer TDD, automatizar, hacer queries SQL, aplicar patrones, etc. Entonces no nos queda más que practicar, cómo? haciendo [katas de código](http://codekata.com/), es muy estimulante y nos mantiene con la mente abierta.
+
+ - **Referentes**: Seguir en twitter, leer blogs, participar en listas de correos, estar en contacto con referentes de las distingas áreas o tecnologías nos permite aprender de primera mano hacía dónde va la cosa.
