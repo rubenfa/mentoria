@@ -31,18 +31,7 @@ Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije 
 
 ### 3. PERFIL
 
-Si tuviera que responder rápidamente cuáles serían las cualidades para ser un buen programador, se me vienen éstas a la mente:
 
- - **Actitud**: Todas las principales características que yo creo necesarias para ser un buen programador pueden resumirse en *actitud*. Actitud para aprender, actitud para enfrentar nuevos retos, actitud para aceptar críticas, actitud para dar lo mejor, actitud para aceptar que no siempre se puede hacer lo mejor. Ser positivo y comunicativo, tener actitud.
-
- - **No ser perezoso**: Hay mucho que aprender y muchas veces dos soluciones pueden funcionar igual pero una puede estar "pegada con cinta" y la otra bien hecha y entre ellas haber una diferencia de esfuerzo considerable, si bien no siempre es efectivo a nivel costo invertir todo el tiempo necesario para hacer las cosas lo mejor posible (lo perfecto es enemigo de lo suficiente) sobre todo en etapas tempranas en las que queremos comprender el negocio
-
- - **Ser metódico**: Hay pasos a seguir y herramientas para cada cosa (cuando digo herramientas también digo marcos de trabajo) al final seguir los pasos adecuados lleva al mejor resultado.
-
- - **Ser abierto a los cambios**: Siempre nos vamos a encontrar con alguien que tiene otra visión que la nuestra de una solución, porque tiene más experiencia, porque no la tiene o porque su punto de vista es simplemente diferente, es difícil en ocasiones aceptar que nuestra idea no será la utilizada pero hay que tomar la idea y llevarla adelante e intentar adoptarlas, no hay una única solución para un problema, es la mejor manera de aprender.
-Aceptar los cambios es tolerar un poco de frustración, que las cosas no serán como pensábamos o queríamos, esto también es aplicable cuando el cliente nos pide cambiar algo.
-
- - **Excelente comunicación**: Lo dicen las metodologías ágiles y es verdad, uno puede no ser experto en algo en lo que está trabajando ahora mismo, pero si uno se comunica bien y siendo metódico y aceptando las ideas de los demás seguro lo va a sacar adelante. Si tenemos un problema o una duda hay que comunicarlo cuanto antes. Por el contrario, hoy por hoy un programador con excelente nivel técnico que no sepa comunicar tiene menos impacto positivo en el equipo.
 
 ### 4. CAMINO DE APRENDIZAJE
 
