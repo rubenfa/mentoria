@@ -2,10 +2,7 @@
 
 ### 1. BIO
 
-Creo que soy un poco como Dilbert, nací para todo lo relacionado con la ingeniería, a diferencia de él no tengo una facilidad innata pero sí que tengo curiosidad, mucha curiosidad.
-De pequeño en casa siempre hubo una inclinación hacia lo técnico, y siempre estábamos desarmando cosas con mi padre, al final en el colegio secundario estudié electrónica, tuve la suerte de trabajar varios años en automatización y control con sistemas basado en procesadores 8084 y a finales de los 90 con microcontroladores Motorola dando mis primeros pasos profesionales en la programación con assembler más tarde salté a los PIC.
-No fue hasta más adelante (años 2000) que comencé con la programación más seriamente, me puse a hacer la carrera y a trabajar de ello un poco mientras seguía ligado a la electrónica.
-Mi carrera en la programación comenzó de una manera extraña, lo único que estudié formalmente relacionado con alguna tecnología en particular fue Java (más allá de la universidad), por esas cosas del destino nunca pude conseguir un trabajo en Java y entonces me interesé por lo relacionado con Microsoft, asp 3, VB6 y también .NET y ahí comencé a trabajar y ganarme la vida como programador.
+ Mi carrera en la programación comenzó de una manera extraña, lo único que estudié formalmente relacionado con alguna tecnología en particular fue Java (más allá de la universidad), por esas cosas del destino nunca pude conseguir un trabajo en Java y entonces me interesé por lo relacionado con Microsoft, asp 3, VB6 y también .NET y ahí comencé a trabajar y ganarme la vida como programador.
 
 Luego del variadas experiencias ya trabajando con .NET allás por finales de 2006 comencé a participar de la lista de Agiles Spain desde Argentina, fue así que me puse al tanto de todo lo relacionado con las prácticas ágiles.
 
@@ -36,46 +33,51 @@ Tampoco creo que haya que tener pasión para ser bueno progrmando. Una vez dije 
 
 Si tuviera que responder rápidamente cuáles serían las cualidades para ser un buen programador, se me vienen éstas a la mente:
 
- - Actitud: Todas las principales características que yo creo necesarias para ser un buen programador pueden resumirse en *actitud*. Actitud para aprender, actitud para enfrentar nuevos retos, actitud para aceptar críticas, actitud para dar lo mejor, actitud para aceptar que no siempre se puede hacer lo mejor. Ser positivo y comunicativo, tener actitud.
+ - **Actitud**: Todas las principales características que yo creo necesarias para ser un buen programador pueden resumirse en *actitud*. Actitud para aprender, actitud para enfrentar nuevos retos, actitud para aceptar críticas, actitud para dar lo mejor, actitud para aceptar que no siempre se puede hacer lo mejor. Ser positivo y comunicativo, tener actitud.
 
- - No ser perezoso: Hay mucho que aprender y muchas veces dos soluciones pueden funcionar igual pero una puede estar "pegada con cinta" y la otra bien hecha y entre ellas haber una diferencia de esfuerzo considerable, si bien no siempre es efectivo a nivel costo invertir todo el tiempo necesario para hacer las cosas lo mejor posible (lo perfecto es enemigo de lo suficiente) sobre todo en etapas tempranas en las que queremos comprender el negocio
+ - **No ser perezoso**: Hay mucho que aprender y muchas veces dos soluciones pueden funcionar igual pero una puede estar "pegada con cinta" y la otra bien hecha y entre ellas haber una diferencia de esfuerzo considerable, si bien no siempre es efectivo a nivel costo invertir todo el tiempo necesario para hacer las cosas lo mejor posible (lo perfecto es enemigo de lo suficiente) sobre todo en etapas tempranas en las que queremos comprender el negocio
 
- - Ser metódico: Hay pasos a seguir y herramientas para cada cosa (cuando digo herramientas también digo marcos de trabajo) al final seguir los pasos adecuados lleva al mejor resultado.
+ - **Ser metódico**: Hay pasos a seguir y herramientas para cada cosa (cuando digo herramientas también digo marcos de trabajo) al final seguir los pasos adecuados lleva al mejor resultado.
 
- - Ser abierto a los cambios: Siempre nos vamos a encontrar con alguien que tiene otra visión que la nuestra de una solución, porque tiene más experiencia, porque no la tiene o porque su punto de vista es simplemente diferente, es difícil en ocasiones aceptar que nuestra idea no será la utilizada pero hay que tomar la idea y llevarla adelante e intentar adoptarlas, no hay una única solución para un problema, es la mejor manera de aprender.
+ - **Ser abierto a los cambios**: Siempre nos vamos a encontrar con alguien que tiene otra visión que la nuestra de una solución, porque tiene más experiencia, porque no la tiene o porque su punto de vista es simplemente diferente, es difícil en ocasiones aceptar que nuestra idea no será la utilizada pero hay que tomar la idea y llevarla adelante e intentar adoptarlas, no hay una única solución para un problema, es la mejor manera de aprender.
 Aceptar los cambios es tolerar un poco de frustración, que las cosas no serán como pensábamos o queríamos, esto también es aplicable cuando el cliente nos pide cambiar algo.
 
- - Excelente comunicación: Lo dicen las metodologías ágiles y es verdad, uno puede no ser experto en algo en lo que está trabajando ahora mismo, pero si uno se comunica bien y siendo metódico y aceptando las ideas de los demás seguro lo va a sacar adelante. Si tenemos un problema o una duda hay que comunicarlo cuanto antes. Por el contrario, hoy por hoy un programador con excelente nivel técnico que no sepa comunicar tiene menos impacto positivo en el equipo.
+ - **Excelente comunicación**: Lo dicen las metodologías ágiles y es verdad, uno puede no ser experto en algo en lo que está trabajando ahora mismo, pero si uno se comunica bien y siendo metódico y aceptando las ideas de los demás seguro lo va a sacar adelante. Si tenemos un problema o una duda hay que comunicarlo cuanto antes. Por el contrario, hoy por hoy un programador con excelente nivel técnico que no sepa comunicar tiene menos impacto positivo en el equipo.
 
 ### 4. CAMINO DE APRENDIZAJE
 
- - Conocimientos de base: Estoy totalemente convencido que es mejor comprender que saber de memoria, en el desarrollo hay muchas tecnologías, pero como dije antes, los principios en los que se apoyan son los mismo.
+ - **Conocimientos de base**: Estoy totalemente convencido que es mejor comprender que saber de memoria, en el desarrollo hay muchas tecnologías, pero como dije antes, los principios en los que se apoyan son los mismo.
 
- - Paradigmas de programación: Hay muchos y cada uno tiene sus ventajas y desventajas, en mi caso uso mucho C# que es de uso general basado en POO con algunas cosas de funcional. También uso mucho Javascript que es prototipado. Es muy útil conocer cómo se hacen ciertas cosas en otros lenguajes, ayuda e cambiar la perspectiva de los problemas, un buen libro para esto es ["Seven Languages in Seven Weeks"](https://www.amazon.es/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/)
+ - **Paradigmas de programación**: Hay muchos y cada uno tiene sus ventajas y desventajas, en mi caso uso mucho C# que es de uso general basado en POO con algunas cosas de funcional. También uso mucho Javascript que es prototipado. Es muy útil conocer cómo se hacen ciertas cosas en otros lenguajes, ayuda e cambiar la perspectiva de los problemas, un buen libro para esto es ["Seven Languages in Seven Weeks"](https://www.amazon.es/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/)
 
- - El lenguaje que uno utiliza: No creo que conocer cada una de los detalles del lenguaje sea necesario, pero tener presente la mayoría de las posibilidades, por ejemplo si al declarar una clase los métodos son virtuales o no, conocer cosas como el funcinamiento básico del Garbage collector, y antes de escribir una clase de utilidad por nosotros mismos buscar si nuestro lenguage ya hace algo similiar (que es lo más probable)
+ - **El lenguaje que uno utiliza**: No creo que conocer cada una de los detalles del lenguaje sea necesario, pero tener presente la mayoría de las posibilidades, por ejemplo si al declarar una clase los métodos son virtuales o no, conocer cosas como el funcinamiento básico del Garbage collector, y antes de escribir una clase de utilidad por nosotros mismos buscar si nuestro lenguage ya hace algo similiar (que es lo más probable)
 
- - Modelos relacionales de datos: Conocer cómo hacer queries SQL, poder analizar un plan de ejecución, saber algo de optimización, es muy importante.
+ - **Modelos relacionales de datos**: Conocer cómo hacer queries SQL, poder analizar un plan de ejecución, saber algo de optimización, es muy importante.
 
- - Modelos NoSql: Comprender diferentes modelos del bases no relacionales, ventajas y desventajas.
- - HTTP: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivels es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/).
+ - **Modelos NoSql**: Comprender diferentes modelos del bases no relacionales (CAP), ventajas y desventajas.
+ 
+ - **HTTP**: Hoy en día pocas aplicaciones no usan internet o una red, conocer HTTP a un buen nivels es escencial, los métodos más importantes, cómo funciona la caché, cómo las cookies y demás cosas, conocer [Fiddler](https://www.telerik.com/fiddler) o [Postman](https://www.getpostman.com/).
 
- - Cómo funciona un servidor web: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) comprender cómo configurar un servidor es muy importante.
+ - **Cómo funciona un servidor web**: Hoy en día hay varios enfoques y dependiendo de qué estemos haciendo el modelo de ejecución puede ser diferente, comprender esto y poder (leyendo la documentación) comprender cómo configurar un servidor es muy importante.
 
- - Prácticas de código límpio: Tener presente y repasar los [principios de código limpio](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) es escencial.
+ - **Prácticas de código límpio**: Tener presente y repasar los [principios de código limpio](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) es escencial.
 
- - Patrones: Conocer y comprender los patrones más utilizados en el lenguaje que uno usa es muy útil y ayuda a comprender el código de otros y plantear soluciones.
+ - **Patrones**: Conocer y comprender los patrones más utilizados en el lenguaje que uno usa es muy útil y ayuda a comprender el código de otros y plantear soluciones.
 
- - Diferentes formas de testing: Es necesario al menos conocer de qué se trata TDD, cómo se puede hacer una prueba de UI, una de integración
+ - **Diferentes formas de testing**: Es necesario al menos conocer de qué se trata TDD, cómo se puede hacer una prueba de UI, una de integración
 
- - Control de versiones: Es casi una locura no utilizar control de versiones, conocer al menos un par de ellos y saber hacer las cosas escenciales es determinante.
+ - **Control de versiones**: Es casi una locura no utilizar control de versiones, conocer al menos un par de ellos y saber hacer las cosas escenciales es determinante.
 
- - Integración continúa: Al menos comprender qué es y poder comprender qué hace un entorno ya configurado.
+ - **Integración continúa**: Al menos comprender qué es y poder comprender qué hace un entorno ya configurado.
 
- - Automatización: Conocer de automatización es un extra, pero ayuda mucho, los programadores somos vagos por naturaleza, todo lo que es repetitivo en algún momento lo terminamos automatizando con un script.
+ - **Automatización**: Conocer de automatización es un extra, pero ayuda mucho, los programadores somos vagos por naturaleza, todo lo que es repetitivo en algún momento lo terminamos automatizando con un script.
 
- - Balanceo de cargas, proxies, cache, nube, servidores, etc.: Es un área más de la gente de IT, pero tener un conocimiento mínimo de el impacto de utilizar un balanceador de carga en nuestra arquitectura puede ser curcial, comprender que si hay caches en medio eso tendrá impacto en nuestro aplicación.
+ - **Balanceo de cargas, proxies, cache, nube, servidores, etc.**: Es un área más de la gente de IT, pero tener un conocimiento mínimo de el impacto de utilizar un balanceador de carga en nuestra arquitectura puede ser curcial, comprender que si hay caches en medio eso tendrá impacto en nuestro aplicación.
 
- - Leer: Leer código de otros ayuda a aprender y a hacernos preguntas a nosotros mismos, es un buen ejercicio mirar el código de algún framework o librería que usemos, o simplemente código de un colega para ver otras formar de hacer las cosas.
+ - **Leer**: Leer código de otros ayuda a aprender y a hacernos preguntas a nosotros mismos, es un buen ejercicio mirar el código de algún framework o librería que usemos, o simplemente código de un colega para ver otras formar de hacer las cosas.
 
- - Practicar: Si uno quiere destacar es necesario mantener ciertas habilidades siempre frescas, por desgracia no siempre nos toca un proyecto en el que podemos hacer TDD, automatizar, hacer queries SQL, aplicar patrones, etc. Entonces no nos queda más que practicar, cómo? haciendo [katas de código](http://codekata.com/), es muy estimulante y nos mantiene con la mente abierta.
+ - **Practicar**: Si uno quiere destacar es necesario mantener ciertas habilidades siempre frescas, por desgracia no siempre nos toca un proyecto en el que podemos hacer TDD, automatizar, hacer queries SQL, aplicar patrones, etc. Entonces no nos queda más que practicar, cómo? haciendo [katas de código](http://codekata.com/), es muy estimulante y nos mantiene con la mente abierta.
+
+ - **Inglés**: Siendo realistas si no sabemos inglés nos vamos a perder de mucho, hay infinidad de materia que no existe en otro idioma.
+
+ - **Prácticas y herramientas ágiles**: SCRUM, Pomodoro, Kamban, retrospectivas, etc. todas estas herramientas nos serán útiles en el día a día o alguna vez.
