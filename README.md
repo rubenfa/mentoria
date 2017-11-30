@@ -46,6 +46,7 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 ## [José Antonio Dongil](/jose_antonio_dongil_s/jose_antonio_dongil_s.md)
 ## [Juan María Hernández](/juan_maria_hernandez_a/juan_maria_hernandez_a.md)
 ## [Juan Quijano](/juan_quijano/juan_quijano.md)
+## [Leonardo Micheloni](/leonardo_micheloni/leonardo_micheloni.md)
 ## [Modesto San Juan](/modesto_san_juan_a/modesto_san_juan_a.md)
 ## [Raúl Ávila](/raul_avila/raul_avila.md)
 ## [Rubén Fernández](/ruben_fernandez_a/ruben_fernandez_a.md)
