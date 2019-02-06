@@ -51,4 +51,3 @@ Si crees que puedes aportar algo, no lo dudes y colabora.
 ## [Raúl Ávila](/raul_avila/raul_avila.md)
 ## [Rubén Fernández](/ruben_fernandez_a/ruben_fernandez_a.md)
 ## [Sergio León](/sergio_leon_g/sergio_leon_g.md)
-## [Gz García](/gz_garcia/gz_garcia.md)
